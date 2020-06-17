@@ -1,7 +1,7 @@
 # Show Your Ip Address ipjs
 ## This  project made with vanilla javascript 
 
-### [Demo](http://ip.erdoganabaci.site/)
+### [Demo](https://erdoganabaci.github.io/ipjs/)
 
 ## Ip provider => https://ipinfo.io/json
 
